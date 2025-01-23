@@ -8,7 +8,7 @@ namespace CORE_CICD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Afzal", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing2", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
